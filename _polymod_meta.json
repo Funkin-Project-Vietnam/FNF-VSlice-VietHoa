@@ -1,0 +1,17 @@
+{
+  "title": "Friday Night Funkin' Việt Hoá",
+  "description": "Đây là bản mods việt hoá nguyên tựa game.",
+  "contributors": [
+    {
+      "name": "HMFNF",
+      "role": "Translator, Coder"
+    },
+    {
+      "name": "Huy1234TH",
+      "role": "Translator, Coder"
+    }
+  ],
+  "api_version": "0.6.3",
+  "mod_version": "1.0.0",
+  "license": "Apache-2.0"
+}
